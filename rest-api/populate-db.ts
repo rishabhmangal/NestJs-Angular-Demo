@@ -17,11 +17,11 @@ var ObjectId = require('mongodb').ObjectID;
 *
 * Example (don't use this as you don't have write access):
 *
-* mongodb+srv://nestjs:ZeEjdswOWHwoenQO@cluster0-dbucq.gcp.mongodb.net
+* 
 *
 *****************************************************************************************************/
 
-const MONGODB_CONNECTION_URL = 'mongodb+srv://nestjs-admin:BSFGkUY7T0XcJfpI@cluster0-4r2ye.mongodb.net/test?retryWrites=true&w=majority';
+const MONGODB_CONNECTION_URL = 'define mongo onnection';
 
 // Database Name
 const dbName = 'nestjs-course';
